@@ -1,0 +1,585 @@
+[
+    {
+        "awbId": "41092587-c3bb-4b94-8d86-1e8c16e61d23",
+        "awbNum": "160-90001413",
+        "cost": 382,
+        "price": 850,
+        "pieceId": "103cf0fb-868e-41d0-96ce-d601b10de136",
+        "grossWeight": 25,
+        "goodsDescription": "Some goods 1",
+        "handlingInstructions": [],
+        "products": [
+            {
+                "description": "Performance Sportswear and Shoes Crate"
+            },
+            {
+                "description": "PlayStation Consoles and Bravia TVs Box"
+            },
+            {
+                "description": "Food and Beverage Products in Bulk Quantity"
+            },
+            {
+                "description": "Shoeboxes of Air Jordan Sneakers"
+            },
+            {
+                "description": "Automotive Spare Parts Containers"
+            }
+        ],
+        "unitProfit": 18
+    },
+    {
+        "awbId": "16d22d95-8c45-475a-aedd-45009ffd1fbb",
+        "awbNum": "160-90001416",
+        "cost": 793,
+        "price": 1280,
+        "pieceId": "745fdfc8-d8b5-42c1-802d-b28fb9aff8d6",
+        "grossWeight": 35,
+        "goodsDescription": "Some goods 2",
+        "handlingInstructions": [],
+        "products": [
+            {
+                "description": "Performance Sportswear and Shoes Crate"
+            },
+            {
+                "description": "Household and Personal Care Product Cargo"
+            },
+            {
+                "description": "Consumer Products and Personal Care Goods Load"
+            },
+            {
+                "description": "ThinkPad Laptops and Desktop Computers Shipment"
+            }
+        ],
+        "unitProfit": 4
+    },
+    {
+        "awbId": "16d22d95-8c45-475a-aedd-45009ffd1fbb",
+        "awbNum": "160-90001416",
+        "cost": 793,
+        "price": 1280,
+        "pieceId": "83ed91ee-2b6d-40eb-80c2-4824007965e1",
+        "grossWeight": 30,
+        "goodsDescription": "Some goods 2",
+        "handlingInstructions": [],
+        "products": [
+            {
+                "description": "Xbox Consoles and Surface Tablets Shipment"
+            },
+            {
+                "description": "Household and Personal Care Product Cargo"
+            },
+            {
+                "description": "Consumer Products and Personal Care Goods Load"
+            },
+            {
+                "description": "Auto Parts and Components Transport"
+            }
+        ],
+        "unitProfit": 4
+    },
+    {
+        "awbId": "16d22d95-8c45-475a-aedd-45009ffd1fbb",
+        "awbNum": "160-90001416",
+        "cost": 793,
+        "price": 1280,
+        "pieceId": "a4e2b28f-e47d-45b9-85c5-90605e3e3107",
+        "grossWeight": 24,
+        "goodsDescription": "Some goods 2",
+        "handlingInstructions": [
+            "CCV",
+            "AAA"
+        ],
+        "products": [
+            {
+                "description": "Performance Sportswear and Shoes Crate"
+            },
+            {
+                "description": "PlayStation Consoles and Bravia TVs Box"
+            },
+            {
+                "description": "Skincare and Makeup Products Batch"
+            },
+            {
+                "description": "Flat-Packed Furniture and Home Decor Items Crate"
+            },
+            {
+                "description": "Fast-Fashion Garments and Accessories Bundle"
+            }
+        ],
+        "unitProfit": 4
+    },
+    {
+        "awbId": "16d22d95-8c45-475a-aedd-45009ffd1fbb",
+        "awbNum": "160-90001416",
+        "cost": 793,
+        "price": 1280,
+        "pieceId": "d67da3bf-d718-4306-b5f1-e1f11a77a4cb",
+        "grossWeight": 16,
+        "goodsDescription": "Some goods 2",
+        "handlingInstructions": [],
+        "products": [
+            {
+                "description": "Performance Sportswear and Shoes Crate"
+            },
+            {
+                "description": "Xbox Consoles and Surface Tablets Shipment"
+            },
+            {
+                "description": "Household and Personal Care Product Cargo"
+            },
+            {
+                "description": "Coffee Beans and Retail Store Supplies Package"
+            },
+            {
+                "description": "Skincare and Makeup Products Batch"
+            }
+        ],
+        "unitProfit": 4
+    },
+    {
+        "awbId": "1e2c07e6-94a8-452c-aa6f-afd73e2b54bf",
+        "awbNum": "160-90001419",
+        "cost": 1303,
+        "price": 2370,
+        "pieceId": "aa8d9022-e962-4ca0-b948-861cde36caa6",
+        "grossWeight": 34,
+        "goodsDescription": "Some goods 3",
+        "handlingInstructions": [],
+        "products": [
+            {
+                "description": "Performance Sportswear and Shoes Crate"
+            },
+            {
+                "description": "Skincare and Makeup Products Batch"
+            }
+        ],
+        "unitProfit": 31
+    },
+    {
+        "awbId": "b04cc4a3-9111-4583-b3c7-9492b02f6bda",
+        "awbNum": "160-90001422",
+        "cost": 1663,
+        "price": 2160,
+        "pieceId": "5ce75683-415a-4177-bc18-bd358a56b124",
+        "grossWeight": 25,
+        "goodsDescription": "Some goods 4",
+        "handlingInstructions": [
+            "PER",
+            "VAL",
+            "CCV"
+        ],
+        "products": [
+            {
+                "description": "PlayStation Consoles and Bravia TVs Box"
+            },
+            {
+                "description": "Coffee Beans and Retail Store Supplies Package"
+            },
+            {
+                "description": "ThinkPad Laptops and Desktop Computers Shipment"
+            },
+            {
+                "description": "Auto Parts and Components Transport"
+            },
+            {
+                "description": "Mate Series Smartphones and Laptops Pallet"
+            }
+        ],
+        "unitProfit": 2
+    },
+    {
+        "awbId": "b04cc4a3-9111-4583-b3c7-9492b02f6bda",
+        "awbNum": "160-90001422",
+        "cost": 1663,
+        "price": 2160,
+        "pieceId": "1ed09d5e-aece-457f-ab4c-6ac5abc95c2d",
+        "grossWeight": 32,
+        "goodsDescription": "Some goods 4",
+        "handlingInstructions": [],
+        "products": [
+            {
+                "description": "PlayStation Consoles and Bravia TVs Box"
+            },
+            {
+                "description": "Xbox Consoles and Surface Tablets Shipment"
+            },
+            {
+                "description": "Fast-Fashion Garments and Accessories Bundle"
+            },
+            {
+                "description": "Electric Vehicle Components and Batteries Shipment"
+            }
+        ],
+        "unitProfit": 2
+    },
+    {
+        "awbId": "b04cc4a3-9111-4583-b3c7-9492b02f6bda",
+        "awbNum": "160-90001422",
+        "cost": 1663,
+        "price": 2160,
+        "pieceId": "d6393bee-38e0-4c42-923e-a5cb0eaa1d2f",
+        "grossWeight": 78,
+        "goodsDescription": "Some goods 4",
+        "handlingInstructions": [
+            "CCV",
+            "PER",
+            "AVI",
+            "AAA"
+        ],
+        "products": [
+            {
+                "description": "Performance Sportswear and Shoes Crate"
+            },
+            {
+                "description": "PlayStation Consoles and Bravia TVs Box"
+            },
+            {
+                "description": "Electric Vehicle Components and Batteries Shipment"
+            },
+            {
+                "description": "Computer Processors and Chips Consignment"
+            }
+        ],
+        "unitProfit": 2
+    },
+    {
+        "awbId": "b04cc4a3-9111-4583-b3c7-9492b02f6bda",
+        "awbNum": "160-90001422",
+        "cost": 1663,
+        "price": 2160,
+        "pieceId": "7d13e2ab-7489-43cd-bf7f-af6f8b94d8fe",
+        "grossWeight": 45,
+        "goodsDescription": "Some goods 4",
+        "handlingInstructions": [],
+        "products": [
+            {
+                "description": "Xbox Consoles and Surface Tablets Shipment"
+            },
+            {
+                "description": "ThinkPad Laptops and Desktop Computers Shipment"
+            },
+            {
+                "description": "Flat-Packed Furniture and Home Decor Items Crate"
+            },
+            {
+                "description": "Cola Beverages in Industrial Quantities"
+            },
+            {
+                "description": "Car Components and Accessories Freight"
+            },
+            {
+                "description": "Designer Clothing and Accessories Parcel"
+            },
+            {
+                "description": "A-Class Sedan Auto Parts Shipment"
+            }
+        ],
+        "unitProfit": 2
+    },
+    {
+        "awbId": "602675d5-10f7-43d0-b490-1e102adf9657",
+        "awbNum": "160-90001425",
+        "cost": 1582,
+        "price": 3366,
+        "pieceId": "559bdc8e-c635-4391-b7f3-8f5bfa0e183b",
+        "grossWeight": 32,
+        "goodsDescription": "Some goods 5",
+        "handlingInstructions": [
+            "AVI"
+        ],
+        "products": [
+            {
+                "description": "Food and Beverage Products in Bulk Quantity"
+            },
+            {
+                "description": "Household and Personal Care Product Cargo"
+            },
+            {
+                "description": "ThinkPad Laptops and Desktop Computers Shipment"
+            },
+            {
+                "description": "Cola Beverages in Industrial Quantities"
+            },
+            {
+                "description": "Licensed Merchandise and Toys Container"
+            },
+            {
+                "description": "Bottled Soft Drinks in Bulk Cases"
+            }
+        ],
+        "unitProfit": 28
+    },
+    {
+        "awbId": "602675d5-10f7-43d0-b490-1e102adf9657",
+        "awbNum": "160-90001425",
+        "cost": 1582,
+        "price": 3366,
+        "pieceId": "98ed5abf-6317-43b9-adce-4e69734584f1",
+        "grossWeight": 31,
+        "goodsDescription": "Some goods 5",
+        "handlingInstructions": [
+            "CCV",
+            "PER",
+            "VAL"
+        ],
+        "products": [
+            {
+                "description": "Household and Personal Care Product Cargo"
+            },
+            {
+                "description": "Skincare and Makeup Products Batch"
+            },
+            {
+                "description": "Auto Parts and Components Transport"
+            },
+            {
+                "description": "Cola Beverages in Industrial Quantities"
+            },
+            {
+                "description": "Cosmetics and Haircare Products Shipment"
+            },
+            {
+                "description": "Leather Handbags in Master Cartons"
+            }
+        ],
+        "unitProfit": 28
+    },
+    {
+        "awbId": "36294f42-8b05-42f8-8c58-5860ca7836fe",
+        "awbNum": "160-90001428",
+        "cost": 621,
+        "price": 1002,
+        "pieceId": "c841a3af-74b6-4c20-a733-bcd7970d872d",
+        "grossWeight": 56,
+        "goodsDescription": "Some goods 6",
+        "handlingInstructions": [],
+        "products": [
+            {
+                "description": "Xbox Consoles and Surface Tablets Shipment"
+            },
+            {
+                "description": "Coffee Beans and Retail Store Supplies Package"
+            },
+            {
+                "description": "Mate Series Smartphones and Laptops Pallet"
+            },
+            {
+                "description": "Computer Processors and Chips Consignment"
+            },
+            {
+                "description": "Cola Beverages in Industrial Quantities"
+            },
+            {
+                "description": "Licensed Merchandise and Toys Container"
+            },
+            {
+                "description": "Cosmetics and Haircare Products Shipment"
+            },
+            {
+                "description": "Galaxy Smartphone Inventory Lot"
+            }
+        ],
+        "unitProfit": 6
+    },
+    {
+        "awbId": "1de34004-0cdc-4733-885a-a6726de4153e",
+        "awbNum": "160-90001431",
+        "cost": 1771,
+        "price": 4120,
+        "pieceId": "51c37027-e11c-4777-8ba7-bd6fc3e33102",
+        "grossWeight": 34,
+        "goodsDescription": "Some goods 7",
+        "handlingInstructions": [],
+        "products": [
+            {
+                "description": "Cola Beverages in Industrial Quantities"
+            },
+            {
+                "description": "Licensed Merchandise and Toys Container"
+            },
+            {
+                "description": "Perfumes, Cosmetics and Fashion Goods Bundle"
+            },
+            {
+                "description": "Kindle E-Readers and Echo Devices Cargo"
+            },
+            {
+                "description": "Frozen Food and Packaging Supplies"
+            }
+        ],
+        "unitProfit": 12
+    },
+    {
+        "awbId": "1de34004-0cdc-4733-885a-a6726de4153e",
+        "awbNum": "160-90001431",
+        "cost": 1771,
+        "price": 4120,
+        "pieceId": "776b8599-530e-4b3b-a2e9-b12bbc246a75",
+        "grossWeight": 89,
+        "goodsDescription": "Some goods 7",
+        "handlingInstructions": [
+            "VAL"
+        ],
+        "products": [
+            {
+                "description": "Consumer Products and Personal Care Goods Load"
+            },
+            {
+                "description": "Electric Vehicle Components and Batteries Shipment"
+            },
+            {
+                "description": "Licensed Merchandise and Toys Container"
+            },
+            {
+                "description": "Car Components and Accessories Freight"
+            },
+            {
+                "description": "Perfumes, Cosmetics and Fashion Goods Bundle"
+            }
+        ],
+        "unitProfit": 12
+    },
+    {
+        "awbId": "1de34004-0cdc-4733-885a-a6726de4153e",
+        "awbNum": "160-90001431",
+        "cost": 1771,
+        "price": 4120,
+        "pieceId": "a4e59468-2b17-4fcc-93f6-e3518cb0597f",
+        "grossWeight": 66,
+        "goodsDescription": "Some goods 7",
+        "handlingInstructions": [],
+        "products": [
+            {
+                "description": "Coffee Beans and Retail Store Supplies Package"
+            },
+            {
+                "description": "Auto Parts and Components Transport"
+            },
+            {
+                "description": "Fast-Fashion Garments and Accessories Bundle"
+            },
+            {
+                "description": "Computer Processors and Chips Consignment"
+            },
+            {
+                "description": "Designer Clothing and Accessories Parcel"
+            },
+            {
+                "description": "Perfumes, Cosmetics and Fashion Goods Bundle"
+            },
+            {
+                "description": "iPhone Pro Max Units"
+            }
+        ],
+        "unitProfit": 12
+    },
+    {
+        "awbId": "4a7d585f-ecd5-4b36-a506-a9a8812882ea",
+        "awbNum": "160-90001434",
+        "cost": 3054,
+        "price": 4773,
+        "pieceId": "fc26f406-eb4b-430f-8210-8cb73ad2c31e",
+        "grossWeight": 34,
+        "goodsDescription": "Some goods 8",
+        "handlingInstructions": [
+            "VAL",
+            "PER",
+            "AAA",
+            "CCV"
+        ],
+        "products": [
+            {
+                "description": "Food and Beverage Products in Bulk Quantity"
+            },
+            {
+                "description": "Cosmetics and Haircare Products Shipment"
+            },
+            {
+                "description": "Car Components and Accessories Freight"
+            }
+        ],
+        "unitProfit": 12
+    },
+    {
+        "awbId": "4a7d585f-ecd5-4b36-a506-a9a8812882ea",
+        "awbNum": "160-90001434",
+        "cost": 3054,
+        "price": 4773,
+        "pieceId": "c746fbeb-9598-442a-907d-9dbc9f6c4dce",
+        "grossWeight": 56,
+        "goodsDescription": "Some goods 8",
+        "handlingInstructions": [
+            "VAL"
+        ],
+        "products": [
+            {
+                "description": "Electric Vehicle Components and Batteries Shipment"
+            },
+            {
+                "description": "Designer Clothing and Accessories Parcel"
+            },
+            {
+                "description": "Perfumes, Cosmetics and Fashion Goods Bundle"
+            }
+        ],
+        "unitProfit": 12
+    },
+    {
+        "awbId": "4a7d585f-ecd5-4b36-a506-a9a8812882ea",
+        "awbNum": "160-90001434",
+        "cost": 3054,
+        "price": 4773,
+        "pieceId": "6d1a971d-a243-44de-a9e3-e1009d925288",
+        "grossWeight": 23,
+        "goodsDescription": "Some goods 8",
+        "handlingInstructions": [
+            "CCV"
+        ],
+        "products": [
+            {
+                "description": "Consumer Products and Personal Care Goods Load"
+            },
+            {
+                "description": "Flat-Packed Furniture and Home Decor Items Crate"
+            },
+            {
+                "description": "Car Components and Accessories Freight"
+            }
+        ],
+        "unitProfit": 12
+    },
+    {
+        "awbId": "4a7d585f-ecd5-4b36-a506-a9a8812882ea",
+        "awbNum": "160-90001434",
+        "cost": 3054,
+        "price": 4773,
+        "pieceId": "2d788ea9-6d4e-44c4-87b8-98539f9f9b92",
+        "grossWeight": 22,
+        "goodsDescription": "Some goods 8",
+        "handlingInstructions": [],
+        "products": [
+            {
+                "description": "Food and Beverage Products in Bulk Quantity"
+            },
+            {
+                "description": "Automotive Spare Parts Containers"
+            },
+            {
+                "description": "Xbox Consoles and Surface Tablets Shipment"
+            },
+            {
+                "description": "Coffee Beans and Retail Store Supplies Package"
+            },
+            {
+                "description": "Auto Parts and Components Transport"
+            },
+            {
+                "description": "Flat-Packed Furniture and Home Decor Items Crate"
+            },
+            {
+                "description": "Computer Processors and Chips Consignment"
+            }
+        ],
+        "unitProfit": 12
+    }
+]
